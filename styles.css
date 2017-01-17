@@ -1,0 +1,35 @@
+h1 {
+  /*background-image: url("Will Landess Kellogg Picture.jpg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: left center;*/
+  color: black;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: bold;
+}
+
+.table{
+  margin: 0 auto;
+}
+
+#GonzagaLogo{
+  text-align: center;
+  height: 302.5px;
+  width: 410px;
+}
+
+th{
+  text-align: center;
+}
+
+td{
+  text-align: center;
+}
